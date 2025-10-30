@@ -18,7 +18,7 @@ int main (){
     } while (bispo < 5 );
 
     //rainha movendo para esquerda
-    while (rainha <5)
+    while (rainha <8)
     {
        printf("Rainha moveu-se para: Esquerda\n");//imprimindo a movimentaçao da peça
        rainha++;
